@@ -1,3 +1,177 @@
+<!------------------------ //////////////// Coding Courses //////////////// ------------------------------------------------>
+
+<div align="center">
+
+# [Coding courses](https://zerotomastery.io/)
+
+</div>
+<details>
+<summary> 
+  
+### 📕 Zero to Mastery | [Complete Pthon Developer in 2024](link)
+</summary>
+
+`Duration estimate: 32 hours of video + 12 Projects`
+
+```
+   Module 1: Python Introduction
+   Module 2: Python Basics
+   Module 3: Python Basics 2
+   Module 4: Developer Environment
+   Module 5: Advanced Python: Object Orientated Programming
+   Module 6: Advanced Python: Functional Programming
+   Module 7: Advanced Python: Decorators
+   Module 8: Advanced Python: Error Handling
+   Module 9: Advanced Python: Generators
+   Module 10: Modules In Python
+   Module 11: Debugging In Python
+   Module 12: File I/O
+   Module 13: Regular Expressions
+   Module 14: Testing In Python
+   Module 15: Career Of A Python Developer
+   Module 16: Scripting With Python
+   Module 17: Scraping Data with Python
+   Module 18: Web Development with Python
+   Module 19: Automation/Testing
+   Module 20: Machine Learning + Data Science
+```
+</details>
+<details>
+<summary> 
+  
+### 📗 Zero to Mastery | [Java Programming Bootcamp](link)
+</summary>
+
+`Duration estimate: 32 hours of video + 4 Projects`
+
+```
+   Module 1: Welcome to Java (the language)!
+   Module 2: Java Application Structure
+   Module 3: Working with Variables and Arrays
+   Module 4: Primitives vs. Objects
+   Module 5: Control Flow
+   Module 6: Writing & Using Methods in Java
+   Module 7: Access Modifiers and Static
+   Module 8: Working with Text Variables (String and StringBuilder)
+   Module 9: Working with Dates & Times
+   Module 10: Object Oriented Programming (OOP)
+   Module 11: Constructors
+   Module 12: Enums
+   Module 13: Interfaces and Abstract Classes
+   Module 14: Generics and Collections
+   Module 15: Exceptions
+   Module 16: Reading and Writing Files
+   Module 17: Lambda Expressions and Functional Interfaces
+   Module 18: Functional Programming
+   Module 19: The Java Memory
+   Module 20: Concurrency and Multithreading
+```
+</details>
+<details>
+<summary> 
+  
+### 📘 Zero to Mastery | [Unity Bootcamp: 3D Game Development](link)
+</summary>
+
+`Duration estimate: 26 hours of video + 1 Project`
+
+```
+   Module 1: Getting Started
+   Module 2: Unity Fundamentals
+   Module 3: Designing a Scene
+   Module 4: Getting Started with C#
+   Module 5: Player Movement
+   Module 6: Intermediate C#
+   Module 7: AI Movement
+   Module 8: Patrolling with Splines
+   Module 9: Player & Enemy Stats
+   Module 10: Animation
+   Module 11: Combat
+   Module 12: User Interfaces
+   Module 13: Dialogue
+   Module 14: Quests & Rewards
+   Module 15: Scene Management
+   Module 16: Saving
+   Module 17: Camera, Lights, Action!
+   Module 18: Audio
+   Module 19: Polishing the Game
+   Module 20: Publishing a Game
+```
+</details>
+<details>
+<summary> 
+  
+### 📙 Zero to Mastery | [Rust Programming: The Complete Developers Guide](link)
+</summary>
+
+`Duration estimate: 20 hours of video + 2 Projects`
+
+```
+   Module 1: Rust Fundamentals
+   Module 2: Making Decisions with Rust
+   Module 3: Repetition
+   Module 4: Working With Data
+   Module 5: Rust's Memory Model
+   Module 6: Data Collections
+   Module 7: Expanding Knowledge
+   Module 8: Fallible Functions
+   Module 9: Data Collection: HashMap
+   Module 10: Easier Data Management
+   Module 11: Managing Code
+   Module 12: Milestone Project: Billing Application
+   Module 13: Shared Functionality
+   Module 14: Lifetimes
+   Module 15: Improving Program Reliability
+   Module 16: Type Conversions
+   Module 17: Parallel Execution
+   Module 18: Shared Ownership
+   Module 19: Standard Library Tour
+   Module 20: Other Language Features
+   Module 21: Development Experience
+   Module 22: Crate Roundup
+   Module 23: Declarative Macros
+```
+</details>
+<details>
+<summary> 
+  
+### 📓 Zero to Mastery | [Three.js Bootcamp](link)
+</summary>
+
+`Duration estimate: 20 hours of video + 2 Projects`
+
+```
+   Module 1: Three.js Fundamentals
+   Module 2: Hello World (Your First Scene)
+   Module 3: Camera
+   Module 4: Extra: Resizing and Antialiasing
+   Module 5: Manipulating Meshes
+   Module 6: Animating Meshes
+   Module 7: Mesh - Geometries
+   Module 8: Mesh - Materials
+   Module 9: Textures
+   Module 10: Lighting
+   Module 11: Shadows
+   Module 12: Solar System
+   Module 13: Working with 3D Models
+   Module 14: Creating Your Portfolio in Three.js
+   Module 15: Portfolio Code Structure
+   Module 16: Pre-Loader
+   Module 17: Physics
+   Module 18: Basic Inputs
+   Module 19: Character Physics
+   Module 20: Camera Controller
+   Module 21: Avatar Body
+   Module 22: Animation Controller
+   Module 23: Creating an Environment with Blender and Three.js
+   Module 24: Handling Interactivity
+```
+</details>
+<br>
+
+***
+
+<br>
 <!------------------------ //////////////// NETWORKING ESSENTIALS //////////////// ------------------------------------------------>
 
 <div align="center">
@@ -10,6 +184,7 @@
 >
 > In this course, you will learn the fundamentals of networking. See how devices communicate on a network and understand network addressing and network services. Practice building a home network and configuring basic security. You will also get introduced to the basics of configuring Cisco devices, and learn to test and troubleshoot network problems.
 
+`Duration estimate: 70 hours`
 
 <details>
 <summary> 
@@ -97,6 +272,7 @@
 >
 > Practice strategic communication, problem-solving, and stakeholder management through real-world scenarios.
 
+`Duration estimate: 164 hours`
 
 <details>
 <summary> 
@@ -190,4 +366,3 @@
 ***
 
 <br>
-<!------------------------ //////////////// IT AUTOMATION WITH PYTHON //////////////// ------------------------------------------------>
