@@ -80,17 +80,32 @@ NOTE: Physical media properties, current technologies, and the laws of physics a
   - The latency created by the number of network devices encountered between source and destination
 - Latency = **the amount of time**, including delays, for data to travel from one given point to another.
 
-
 <br>
 </details>
 
 <details>
-<summary> 1.4 Clients and Servers </summary>
+<summary> 1.4 Clients and Servers ✅ </summary>
+<br>
+  
+- All computers connected to a network that participate directly in network communication are classified as hosts. Hosts can send and receive messages on the network. In modern networks, computer hosts can act as a client, a server, or both.
+  - The software installed on the computer determines which role the computer plays.
+- Servers are hosts that have software installed which enable them to provide information, like email or web pages, to other hosts on the network. Each service requires separate server software.
+  - e.g. A host requires web server software in order to provide web services to the network. Every destination that you visit online is provided to you by a server located somewhere on a network that is connected to the global internet.
+- Clients are computer hosts that have software installed that enables the hosts to request and display the information obtained from the server.
 <br>
 
+- peer-to-peer (P2P) network = where one computer runs both client and server software at the same time.
+  - The **simplest P2P network consists of two directly connected computers using either a wired or wireless connection**. Both computers are then able to use this simple network to exchange data and services with each other, acting as either a client or a server as necessary.
 
+| Advantages: | Disadvantages: |
+| -- | -- |
+| + Easy to set up | - No centralized administration |
+| + Less complex | - Not as secure |
+| + Lower cost because network devices and dedicated servers may not be required | - All devices may act as both clients and servers which can slow their performance |
+| + Can be used for simple tasks such as transferring files and sharing printers | |
 
-
+- A computer with **server software can provide services simultaneously to one or many clients**.
+- Additionally, **a single computer can run multiple types of server software**. In a home or small business, it may be necessary for one computer to act as a file server, a web server, and an email server.
 <br>
 </details>
 
