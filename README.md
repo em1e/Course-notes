@@ -14,7 +14,7 @@
 <details>
 <summary> 
   
-### 📕 Module 1 - 4
+### 📕 Module 1 - 4 | [Internet Connection: Getting Online Group](https://github.com/em1e/course-notes/blob/main/Networking-Essentials/MODULE-1-4.md)
 </summary>
 
 ```
@@ -23,12 +23,11 @@
    Module 3: Explore Networks with Packet Tracker
    Module 4: Build a Simple Network
 ```
-Access the module 1 - 4 notes [here](https://github.com/em1e/course-notes/blob/main/Networking-Essentials/MODULE-1-4.md).
 </details>
 <details>
 <summary> 
   
-### 📗 Module 5 - 8
+### 📗 Module 5 - 8 | [Network Protocols and Architecture Group](https://github.com/em1e/course-notes/blob/main/Networking-Essentials/MODULE-5-8.md)
 </summary>
 
 ```
@@ -37,12 +36,11 @@ Access the module 1 - 4 notes [here](https://github.com/em1e/course-notes/blob/m
    Module 7: Routing Between Networks
    Module 8: The Internet Protocol
 ```
-Access the module 5 - 8 notes [here](https://github.com/em1e/course-notes/blob/main/Networking-Essentials/MODULE-5-8.md).
 </details>
 <details>
 <summary> 
   
-### 📘 Module 9 - 12
+### 📘 Module 9 - 12 | [Data Communications and Network Services Group](https://github.com/em1e/course-notes/blob/main/Networking-Essentials/MODULE-9-12.md)
 </summary>
 
 ```
@@ -51,12 +49,11 @@ Access the module 5 - 8 notes [here](https://github.com/em1e/course-notes/blob/m
    Module 11: Transport Layer Services
    Module 12: Application Layer Services
 ```
-Access the module 9 - 12 notes [here](https://github.com/em1e/course-notes/blob/main/Networking-Essentials/MODULE-9-12.md).
 </details>
 <details>
 <summary> 
   
-### 📙 Module 13 - 16
+### 📙 Module 13 - 16 | [Home Network Basics Group](https://github.com/em1e/course-notes/blob/main/Networking-Essentials/MODULE-13-16.md)
 </summary>
 
 ```
@@ -65,12 +62,11 @@ Access the module 9 - 12 notes [here](https://github.com/em1e/course-notes/blob/
    Module 15: Security Considerations
    Module 16: Configure Network and Device Security
 ```
-Access the module 13 - 16 notes [here](https://github.com/em1e/course-notes/blob/main/Networking-Essentials/MODULE-13-16.md).
 </details>
 <details>
 <summary> 
   
-### 📓 Module 17 - 20
+### 📓 Module 17 - 20 | [Introduction to Cisco Networking Group](https://github.com/em1e/course-notes/blob/main/Networking-Essentials/MODULE-17-20.md)
 </summary>
 
 ```
@@ -79,9 +75,12 @@ Access the module 13 - 16 notes [here](https://github.com/em1e/course-notes/blob
    Module 19: Build a Small Cisco Network
    Module 20: Troubleshoot Common Network Problems
 ```
-Access the module 17 - 20 notes [here](https://github.com/em1e/course-notes/blob/main/Networking-Essentials/MODULE-17-20.md).
 </details>
+<br>
 
+***
+
+<br>
 <!------------------------ //////////////// GOOGLE PROJECT MANAGEMNT //////////////// ------------------------------------------------>
 
 <div align="center">
@@ -102,7 +101,7 @@ Access the module 17 - 20 notes [here](https://github.com/em1e/course-notes/blob
 <details>
 <summary> 
   
-### 📕 Course 1 | Fundations of Project Management
+### 📕 Course 1 | [Fundations of Project Management](https://github.com/em1e/Course-notes/blob/main/Google-Project-Management/COURSE-1.md)
 </summary>
 
 ```
@@ -116,7 +115,7 @@ Access the module 17 - 20 notes [here](https://github.com/em1e/course-notes/blob
 <details>
 <summary> 
   
-### 📗 Course 2 | Project Initiation: Starting a Successful Project
+### 📗 Course 2 | [Project Initiation: Starting a Successful Project](https://github.com/em1e/Course-notes/blob/main/Google-Project-Management/COURSE-2.md)
 </summary>
 
 ```
@@ -130,7 +129,7 @@ Access the module 17 - 20 notes [here](https://github.com/em1e/course-notes/blob
 <details>
 <summary> 
   
-### 📘 Course 3 | Project Planning: Putting It All Together
+### 📘 Course 3 | [Project Planning: Putting It All Together](https://github.com/em1e/Course-notes/blob/main/Google-Project-Management/COURSE-3.md)
 </summary>
 
 ```
@@ -145,7 +144,7 @@ Access the module 17 - 20 notes [here](https://github.com/em1e/course-notes/blob
 <details>
 <summary> 
   
-### 📙 Course 4 | Project Execution: Running the Projec
+### 📙 Course 4 | [Project Execution: Running the Project](https://github.com/em1e/Course-notes/blob/main/Google-Project-Management/COURSE-4.md)
 </summary>
 
 ```
@@ -161,7 +160,7 @@ Access the module 17 - 20 notes [here](https://github.com/em1e/course-notes/blob
 <details>
 <summary> 
   
-### 📓 Course 5 | Agile Project Management
+### 📓 Course 5 | [Agile Project Management](https://github.com/em1e/Course-notes/blob/main/Google-Project-Management/COURSE-5.md)
 </summary>
 
 ```
@@ -175,7 +174,7 @@ Access the module 17 - 20 notes [here](https://github.com/em1e/course-notes/blob
 <details>
 <summary> 
   
-### 📔 Course 6 | Capstone: Applying project management in the Real World
+### 📔 Course 6 | [Capstone: Applying project management in the Real World](https://github.com/em1e/Course-notes/blob/main/Google-Project-Management/COURSE-6.md)
 </summary>
 
 ```
@@ -186,5 +185,9 @@ Access the module 17 - 20 notes [here](https://github.com/em1e/course-notes/blob
 ```
 
 </details>
+<br>
 
+***
+
+<br>
 <!------------------------ //////////////// IT AUTOMATION WITH PYTHON //////////////// ------------------------------------------------>
