@@ -8,7 +8,7 @@
 <details>
 <summary> 
   
-### 📕 Zero to Mastery | [Complete Pthon Developer in 2024](https://github.com/em1e/Course-notes/blob/main/ztm/PYTHON.md)
+### 📕 Zero to Mastery | [Complete Python Developer in 2024](https://github.com/em1e/Course-notes/blob/main/ztm/PYTHON.md)
 </summary>
 
 `Duration estimate: 32 hours of video + 12 Projects`
