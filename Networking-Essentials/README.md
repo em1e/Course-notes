@@ -19,9 +19,9 @@
    Module 1: Communications in a Connected World
    Module 2: Online Connections
    Module 3: Explore Networks with Packet Tracker
-   Module 4: Build a Simple network
+   Module 4: Build a Simple Network
 ```
-Access the module 1 - 4 notes [here](link).
+Access the module 1 - 4 notes [here](https://github.com/em1e/course-notes/blob/main/Networking-Essentials/MODULE-1-4.md).
 </details>
 <details>
 <summary> 
@@ -31,11 +31,11 @@ Access the module 1 - 4 notes [here](link).
 
 ```
    Module 5: Communication Principles
-   Module 6: Network Design and the Access layer
+   Module 6: Network Design and the Access Layer
    Module 7: Routing Between Networks
    Module 8: The Internet Protocol
 ```
-Access the module 5 - 8 notes [here](link).
+Access the module 5 - 8 notes [here](https://github.com/em1e/course-notes/blob/main/Networking-Essentials/MODULE-5-8.md).
 </details>
 <details>
 <summary> 
@@ -49,7 +49,7 @@ Access the module 5 - 8 notes [here](link).
    Module 11: Transport Layer Services
    Module 12: Application Layer Services
 ```
-Access the module 9 - 12 notes [here](link).
+Access the module 9 - 12 notes [here](https://github.com/em1e/course-notes/blob/main/Networking-Essentials/MODULE-9-12.md).
 </details>
 <details>
 <summary> 
@@ -63,7 +63,7 @@ Access the module 9 - 12 notes [here](link).
    Module 15: Security Considerations
    Module 16: Configure Network and Device Security
 ```
-Access the module 13 - 16 notes [here](link).
+Access the module 13 - 16 notes [here](https://github.com/em1e/course-notes/blob/main/Networking-Essentials/MODULE-13-16.md).
 </details>
 <details>
 <summary> 
@@ -75,7 +75,7 @@ Access the module 13 - 16 notes [here](link).
    Module 17: Cisco Switches and Routers
    Module 18: The Cisco IOS Command Line
    Module 19: Build a Small Cisco Network
-   Module 20: Troubleshoot Common Network roblems
+   Module 20: Troubleshoot Common Network Problems
 ```
-Access the module 17 - 20 notes [here](link).
+Access the module 17 - 20 notes [here](https://github.com/em1e/course-notes/blob/main/Networking-Essentials/MODULE-17-20.md).
 </details>
