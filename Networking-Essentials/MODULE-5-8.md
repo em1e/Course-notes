@@ -1,4 +1,4 @@
-| Started: 09.02.24 | Finished: xx.xx.xx |
+| Started: xx.xx.xx | Finished: xx.xx.xx |
 | ----------        | ------------       |
 
 <div align="center">
