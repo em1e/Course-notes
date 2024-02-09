@@ -8,7 +8,7 @@
 <details>
 <summary> 
   
-### 📕 Zero to Mastery | [Complete Pthon Developer in 2024](link)
+### 📕 Zero to Mastery | [Complete Pthon Developer in 2024](https://github.com/em1e/Course-notes/blob/main/ztm/PYTHON.md)
 </summary>
 
 `Duration estimate: 32 hours of video + 12 Projects`
@@ -39,7 +39,7 @@
 <details>
 <summary> 
   
-### 📗 Zero to Mastery | [Java Programming Bootcamp](link)
+### 📗 Zero to Mastery | [Java Programming Bootcamp](https://github.com/em1e/Course-notes/blob/main/ztm/JAVA.md)
 </summary>
 
 `Duration estimate: 32 hours of video + 4 Projects`
@@ -70,7 +70,7 @@
 <details>
 <summary> 
   
-### 📘 Zero to Mastery | [Unity Bootcamp: 3D Game Development](link)
+### 📘 Zero to Mastery | [Unity Bootcamp: 3D Game Development](https://github.com/em1e/Course-notes/blob/main/ztm/UNITY.md)
 </summary>
 
 `Duration estimate: 26 hours of video + 1 Project`
@@ -101,7 +101,7 @@
 <details>
 <summary> 
   
-### 📙 Zero to Mastery | [Rust Programming: The Complete Developers Guide](link)
+### 📙 Zero to Mastery | [Rust Programming: The Complete Developers Guide](https://github.com/em1e/Course-notes/blob/main/ztm/RUST.md)
 </summary>
 
 `Duration estimate: 20 hours of video + 2 Projects`
@@ -135,7 +135,7 @@
 <details>
 <summary> 
   
-### 📓 Zero to Mastery | [Three.js Bootcamp](link)
+### 📓 Zero to Mastery | [Three.js Bootcamp](https://github.com/em1e/Course-notes/blob/main/ztm/THREEJS.md)
 </summary>
 
 `Duration estimate: 20 hours of video + 2 Projects`
