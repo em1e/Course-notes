@@ -110,21 +110,43 @@ NOTE: Physical media properties, current technologies, and the laws of physics a
 </details>
 
 <details>
-<summary> 1.5 Network Components </summary>
+<summary> 1.5 Network Components ✅ </summary>
 <br>
+  
+### Network Infrastructure:
+NOTE: Devices and media are the physical elements, or hardware, of the network. 
+- Hardware = visible components of the network platform such as a laptop, PC, switch, router, wireless access point, or the cabling used to connect the devices.
 
-
-
+- Network Media
+  - Wireless Media, LAN Media, WAN Media, Cloud
+- End Devices
+  - The network devices that people are most familiar with are called end devices, or hosts.
+  - An end device (or host) is either the source or destination of a message transmitted over the network
+  - e.g. Computer, Laptop, Printer, IP Phone, Smart Phone, Tablet, Server, Security Camera
+- Intermediary Devices
+  - Router, Wireless Router, LAN Switch, Wireless Access Point, Call Manager, Multilayer Switch, Firewall Appliance
 
 <br>
 </details>
 
 <details>
-<summary> 1.6 Communications in a Connected World Summary </summary>
+<summary> 1.6 Communications in a Connected World Summary ✅ </summary>
 <br>
+  
+### Network Types:
+> The internet is a worldwide collection of interconnected networks, cooperating with each other to exchange information using common standards. Using the internet, we can exchange information through telephone wires, fiber-optic cables, wireless transmissions, and satellite links. The internet is considered a "network of networks" because it is literally made up of thousands of local networks that are connected to each other. The internet connects more computing devices than just desktop and laptop computers. There are devices all around that you may interact with on a daily basis that are also connected to the internet.
 
+### Data Transmission:
+> Volunteered data is created and explicitly shared by individuals, such as social network profiles. Inferred data, such as a credit score, is based on analysis of volunteered or observed data. Observed data is captured by recording the actions of individuals, such as location data when using cell phones. A bit can only have one of two possible values, 0 or 1. Each group of eight bits, such as the representations of letters and numbers, is known as a byte. There are three common methods of signal transmission used in networks: electrical, optical, and wireless.
 
+### Bandwidth and Throughput:
+> The rate of data transfer is usually discussed in terms of bandwidth and throughput. Bandwidth is typically measured in the number of bits that (theoretically) can be sent across the media in a second. Throughput measures the transfer of bits across the media over a given period of time. Many factors influence throughput including the amount of data being sent and received over the connection, the types of data being transmitted, and the latency created by the number of network devices encountered between source and destination. Latency is the amount of time, including delays, for data to travel from one given point to another.
 
+### Clients and Servers:
+> Servers are hosts that have software installed that enable them to provide information, like email or web pages, to other hosts on the network. Clients are computer hosts that have software installed that enable them to request and display the information obtained from the server. In small businesses and homes, many computers function as the servers and clients on the network. This type of network is called a peer-to-peer (P2P) network. The simplest peer-to-peer network consists of two directly connected computers using either a wired or wireless connection. A P2P application allows a device to act as both a client and a server within the same communication. In this model, every client is a server and every server is a client. In a home or small business, it may be necessary for one computer to act as a file server, a web server, and an email server. A single computer can also run multiple types of client software. There must be client software for every service used.
+
+### Network Components:
+> The network infrastructure contains three categories of hardware components: intermediate devices, end devices, and network media. Devices and media are the physical elements, or hardware, of the network. Hardware is often the visible components of the network platform such as a laptop, PC, switch, router, wireless access point, or the cabling used to connect the devices. The network devices that people are most familiar with are called end devices, or hosts. These devices form the interface between users and the underlying communication network. An end device (or host) is either the source or destination of a message transmitted over the network.
 
 <br>
 </details>
