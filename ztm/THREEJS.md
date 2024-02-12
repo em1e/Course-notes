@@ -1,4 +1,4 @@
-## Getting started
+## Getting started:
 
 ### Knowledge && Tools:
 - Basic js
@@ -7,8 +7,8 @@
 - Vscode
 - Blender
 
-## Three.js Fundamentals:
+### Three.js Fundamentals:
 - [three.js documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 - [examples](https://threejs.org/examples/#webgl_animation_keyframes)
 
-![]()
+<img src="https://github.com/em1e/Course-notes/blob/main/ztm/threejs-fundamentals.png" width="700"/>
