@@ -155,8 +155,26 @@ NOTE: Devices and media are the physical elements, or hardware, of the network.
 ## Module 2: Online Connections
 
 <details>
-<summary> 2.1 Wireless Netowrks </summary>
-NOTES
+<summary> 2.1 Wireless Netowrks ✅ </summary>
+- Most mobile phones can be connected to many different types of networks simultaneously
+
+talk => e.g. landlines, cell phones, business
+data => e.g. data plan (phone network)
+wifi => e.g. hotspots, or home wireless
+location services => e.g. gps, maps, places near me
+pay services => e.g. cash registers, payment pads
+  
+#### Cellular providor network = ??
+- The most common type of cellular telephone network is called a GSM network, an abbreviation of the title “Global System for Mobile Communications”
+
+Wi-Fi network = **Wi-Fi transmitters and receivers located within the smartphone enable the phone to connect to local networks and the internet.** In order to receive and send data on a Wi-Fi network, the phone needs to be w**ithin the range of the signal** from a wireless network access point. Wi-Fi networks are **usually privately owned** but often provide guest or public access hotspots. A **hotspot is an area where Wi-Fi signals are available.** Wi-Fi network connections on the phone are similar to the network connections on a laptop computer.
+
+Near Field Communications = NFC is a wireless communication technology that enables data to be exchanged by devices that are in **very close proximity to each other**, usually less than a **few centimeters**. For example, NFC can be used to **connect a smartphone and a payment system**. NFC **uses electromagnetic fields to transmit data**.
+
+Bluetooth = A **low-power, shorter range** wireless technology that is **intended to replace wired connectivity** for accessories such as speakers, headphones, and microphones. Bluetooth can also be used to connect a smartwatch to a smartphone. Because Bluetooth technology can be used to transmit both data and voice, **it can be used to create small local networks**. Bluetooth is wireless technology that allows devices to communicate over short distances. Multiple devices can be connected at the same time with Bluetooth.
+
+GPS = The GPS uses satellites to transmit signals that cover the globe. The smart phone can receive these signals and calculate the phone’s location to an accuracy of within 10 meters.
+
 </details>
 
 <details>
